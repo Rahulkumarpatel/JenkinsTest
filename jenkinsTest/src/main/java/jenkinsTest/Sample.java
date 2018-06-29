@@ -1,7 +1,7 @@
 package jenkinsTest;
 
 public class Sample {
-
+		// New Changes
 	public static void main(String[] atgs) {
 		Sample1 sample1 = new Sample1();
 		sample1.setSampler1("Sampler 1");
