@@ -9,3 +9,4 @@ public class Sample {
 		System.out.println(sample1);
 	}
 }
+  

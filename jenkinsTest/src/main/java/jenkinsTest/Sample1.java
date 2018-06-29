@@ -12,7 +12,7 @@ public class Sample1 {
 	public void setSampler1(String sampler1) {
 		this.sampler1 = sampler1;
 	}
-
+ 
 	public String getSampler2() {
 		return sampler2;
 	}
